@@ -1,0 +1,7 @@
+data/market/
+*.parquet
+*_trades.csv
+__pycache__/
+.venv/
+.DS_Store
+_to_delete/
